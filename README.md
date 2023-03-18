@@ -1,4 +1,9 @@
-### Hi, I am Achal 👋
+### Hi there 👋, my name is Achal
+#### I am Business Analyst
+![Black Minimal Business Personal Profile Linkedin Banner](https://user-images.githubusercontent.com/125743309/226092890-454c42b1-5318-45d9-a455-f26169472992.jpg)
+
+
+Skills: Excel | Advanced Excel | MySQL | Python | Numpy | Pandas | Power BI | Tableau  
 
 
 [![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=achalpratap)](https://github.com/achalpratap/github-readme-stats)
