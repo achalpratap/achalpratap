@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Achal 👋
+
+
+[![Achal's GitHub stats](https://github-readme-stats.vercel.app/api?username=achalpratap)](https://github.com/achalpratap/github-readme-stats)
 
 <!--
 **achalpratap/achalpratap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
