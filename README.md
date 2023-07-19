@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Business Analyst</h3>
 
 ## 🙋‍♂️ About Me:
-- 👨‍💻 Student at Masai School
+- 👨‍💻 Working as Application Support Engineer
 - 👨‍💻 Master of Business Administration || Marketing | Human Resource Management
 - 💻 All of my projects are available at **[My Portfolio](https://github.com/achalpratap)**
 - 📫 How to reach me **singhachal338@gmail.com**
